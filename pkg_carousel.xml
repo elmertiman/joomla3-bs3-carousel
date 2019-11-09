@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <extension type="package" version="1.6">
+	 <name>Hello World Package</name>
+	 <author>Hello World Package Team</author>
+	 <creationDate>August 2014</creationDate>
+	 <packagename>carousel</packagename>
+	 <version>1.0.0</version>
+	 <url>http://www.iat.ac.ae</url>
+	 <packager>Elmer M. Timan</packager>
+	 <packagerurl>http://www.iat.ac.ae</packagerurl>
+	 <description>Simple Bootstrap 3 Carousel</description>
+	 <update>http://www.iat.ac.ae</update>
+	 <files folder="packages">
+	   <file type="component" id="carousel" >com_carousel.zip</file>
+	   <file type="module" id="carousel" client="site">mod_carousel.zip</file>
+	 </files>
+ </extension>
